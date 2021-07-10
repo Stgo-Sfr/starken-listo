@@ -1,0 +1,44 @@
+/**********CLASS**********/
+
+#totem {
+  position: relative;
+  margin:5%;
+  margin-left: 5%;
+  margin-right: 5%;
+  border: 2rem solid;
+  border-color: black;
+  width: 70%;
+  height: 100%;
+  background-color: black;
+  border-width: 5%;
+
+}
+#boton{
+  position: relative;
+  left: 30%;
+}
+#indiq{
+  position: relative;
+  top: 40%;
+}
+#nro{
+  padding: 7%;
+}
+#caja2{
+  position: absolute;
+  right: 0%;
+  width: 15%;
+
+}
+/********TAGS*********/
+
+/**********ID**********/
+/*
+margen: caja invisible de margenes
+border: borde de la caja con propiedades explicitas
+padding: separacion entre el contenido y el borde de la caja
+
+positions:
+relative: con respecto a su posicion anterior de html
+absolute: con respecto a su contenedor (div)
+*/
